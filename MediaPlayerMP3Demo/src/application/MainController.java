@@ -35,7 +35,6 @@ public class MainController implements Initializable {
 		File songFile = new File(songPath);
 		song = new Media(songFile.toURI().toString());
 		mp = new MediaPlayer(song);
-		mp.setAutoPlay(true);
 		mv.setMediaPlayer(mp);
 		
 		//***Slider Configurations***
