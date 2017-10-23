@@ -1,4 +1,4 @@
-# JavaFX_MediaPlayerDemo
+# JavaFX Media Player Demo
 This is a basic demo for the JavaFX MediaPlayer API. This program does the following:
 
 - Loads song file and displays filename
